@@ -1,0 +1,2 @@
+teks ini akan dituliskan ke file
+ 
